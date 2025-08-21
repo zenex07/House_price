@@ -95,7 +95,3 @@ Aspiring AI/ML Engineer | Passionate about Data Science & Machine Learning
 
 ```
 
----
-
-Would you like me to also make a **`requirements.txt` file** with all necessary libraries so the project runs smoothly anywhere?
-```
